@@ -1,4 +1,4 @@
-# Dashboard de Vendas:
+# Dashboard de Vendas
 Demonstração de conhecimentos sobre Microsoft Excel para criar um dashboard de vendas de uma empresa.
 
 ### Descrição dos arquivos:
